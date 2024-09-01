@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+
+
+
+body, p + h5 {
+
+    font-family: "Montserrat", sans-serif;
+}
+
+body {
+background-color: #ffd24c}
+
+p,
+h1,
+h2,
+h3,
+h4,
+ol,
+h5 {color:rgb(85, 60, 9);}
+
+p,
+ol {font-weight: 500;
+text-align: justify;}
+
+h1,
+h2 {text-decoration: underline;}
+
+h1,
+h2,
+h3 {font-family: "Oswald", sans-serif;
+}
+
+
+h1 { font-weight: 900;
+}
